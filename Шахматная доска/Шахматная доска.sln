@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Шахматная доска", "Шахматная доска\Шахматная доска.vcxproj", "{DCD977C5-E4DB-4C24-A708-7BC35A172CCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCD977C5-E4DB-4C24-A708-7BC35A172CCD}.Debug|x64.ActiveCfg = Debug|x64
+		{DCD977C5-E4DB-4C24-A708-7BC35A172CCD}.Debug|x64.Build.0 = Debug|x64
+		{DCD977C5-E4DB-4C24-A708-7BC35A172CCD}.Debug|x86.ActiveCfg = Debug|Win32
+		{DCD977C5-E4DB-4C24-A708-7BC35A172CCD}.Debug|x86.Build.0 = Debug|Win32
+		{DCD977C5-E4DB-4C24-A708-7BC35A172CCD}.Release|x64.ActiveCfg = Release|x64
+		{DCD977C5-E4DB-4C24-A708-7BC35A172CCD}.Release|x64.Build.0 = Release|x64
+		{DCD977C5-E4DB-4C24-A708-7BC35A172CCD}.Release|x86.ActiveCfg = Release|Win32
+		{DCD977C5-E4DB-4C24-A708-7BC35A172CCD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD2A2EED-8579-45A5-82BA-B25EE7ACC87A}
+	EndGlobalSection
+EndGlobal
